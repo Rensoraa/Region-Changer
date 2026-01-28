@@ -73,3 +73,8 @@ The latest version of **Region Changer V0.1** is available on the [Releases page
 ## 🛠 Build
 
 This project is built with **C#** using `.NET 9.0 Windows Forms`.
+
+---
+## Known issues.
+
+- Option 0 is invalid due to region locking in the wrong way. (Temporary solution use Green restore hosts button instead)
