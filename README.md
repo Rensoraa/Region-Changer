@@ -1,4 +1,5 @@
-# 🎮 Region Changer V0.1
+# 🎮 Region Changer (depricated / no longer maintaned.)
+## Switch to something like <a href= "https://github.com/crweul/make-your-choice"> Make your choice</a> instead
 
 <p align="center">
   <img src="assets/Asset-readme.png" alt="Region Changer Logo" width="300">
