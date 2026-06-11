@@ -1,4 +1,4 @@
-# 🎮 Region Changer (depricated / no longer maintaned.)
+# (depricated / no longer maintaned.)
 ## Switch to something like <a href= "https://github.com/crweul/make-your-choice"> Make your choice</a> instead
 
 <p align="center">
@@ -13,23 +13,8 @@ Perfect for accessing new servers, or bypassing regional restrictions.
 ## 📌 Features
 
 - 🌍 Switch between multiple game regions  
-- 🛠 Restore default host settings   
-
----
-
-## 📥 Download
-
-The latest version of **Region Changer V0.1** is available on the [Releases page](https://github.com/yourusername/RegionChanger/releases).
-
----
-
-## 🖥 Installation
-
-1. Download the latest `.msi` installer from the [Releases page](https://github.com/yourusername/RegionChanger/releases).
-2. Run the installer and follow the instructions.
-3. Launch **Region Changer** from your Start Menu.
-4. Select your desired region and click “Switch Region”.
-
+- 🛠 Restore default host settings
+- 
 ---
 
 ## ⚙ Supported Regions
@@ -53,29 +38,3 @@ The latest version of **Region Changer V0.1** is available on the [Releases page
 | 14     | Asia Pacific (Hong Kong) | ap-east-1       |
 | 15     | Canada                 | ca-central-1        |
 
----
-
-## 💡 Usage
-
-1. Open the application.
-2. Select your desired region from the dropdown menu.
-3. Click **Switch Region**.
-4. To restore your hosts file, click **Restore Default Hosts**.
-
----
-
-## 📜 Notes
-
-- Requires **administrator privileges** to modify the hosts file.
-- Always backup your hosts file before making changes.
-
----
-
-## 🛠 Build
-
-This project is built with **C#** using `.NET 9.0 Windows Forms`.
-
----
-## Known issues.
-
-- Option 0 is invalid due to region locking in the wrong way. (Temporary solution use Green restore hosts button instead)
